@@ -1,0 +1,80 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.logo {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+}
+
+
+.top1 {
+    position: relative;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.main {
+    width: 100%;
+}
+
+.button01 {
+    position: absolute;
+    width: 87%;
+    top: 96%;
+    left: 7%;
+}
+
+
+.top2 {
+    width: 100%;
+}
+
+
+.top3 {
+    position: relative;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.main {
+    width: 100%;
+}
+
+.button02 {
+    position: absolute;
+    width: 87%;
+    top: 2.5%;
+    left: 7%;
+}
+
+.button03 {
+    position: absolute;
+    width: 87%;
+    top: 94%;
+    left: 7%;
+}
+
+.footer {
+    /* margin-top: 40px; */
+    width: 100%;
+}
+
+
+
+
+
+
+
+
